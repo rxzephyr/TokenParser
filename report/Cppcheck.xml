@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/REBinaryTree.h</file>
+    <line>446</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/REBinaryTree.h" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (warning) Assignment of function parameter has no effect outside the function. Did you forget dereferencing it?</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/REBinaryTree.h</file>
+    <line>71</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/REBinaryTree.h" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (warning) Member variable 'REBinaryClient::nullable' is not initialized in the constructor.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/REBinaryTree.h</file>
+    <line>79</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/REBinaryTree.h" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (warning) Member variable 'REBinaryClient::nullable' is not initialized in the constructor.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/REBinaryTree.h</file>
+    <line>88</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/REBinaryTree.h" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (warning) Member variable 'REBinaryClient::nullable' is not initialized in the constructor.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/RegularExpressionParser.cpp</file>
+    <line>289</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/RegularExpressionParser.cpp" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (style) Condition 'realClient-&gt;getIndex()==-1' is always true</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/RegularExpressionParser.cpp</file>
+    <line>376</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/RegularExpressionParser.cpp" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (style) C-style pointer casting</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/RegularExpressionParser.cpp</file>
+    <line>575</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/RegularExpressionParser.cpp" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (performance) Function parameter 'inputRE' should be passed by const reference.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Initialize.cpp</file>
+    <line>158</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Initialize.cpp" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (performance) Function parameter 'annotationMark' should be passed by const reference.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/Initialize.h</file>
+    <line>14</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/Initialize.h" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (performance) Function parameter 'annotationMark' should be passed by const reference.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/TokenParser.cpp</file>
+    <line>8</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/TokenParser.cpp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (warning) Member variable 'TokenInf::row' is not initialized in the constructor.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/TokenParser.cpp</file>
+    <line>8</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/TokenParser.cpp" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (warning) Member variable 'TokenInf::col' is not initialized in the constructor.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/TokenParser.cpp</file>
+    <line>108</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/TokenParser.cpp" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (performance) Function parameter 'input' should be passed by const reference.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/TokenParser.cpp</file>
+    <line>183</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/TokenParser.cpp" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (performance) Function parameter 'tokenName' should be passed by const reference.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/BasicGraph.h</file>
+    <line>95</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/BasicGraph.h" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (style) Class 'Edge' has a constructor with 1 argument that is not explicit.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/MultipurposeSequence.h</file>
+    <line>314</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/MultipurposeSequence.h" />
+    <problem_class severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (style) Array index 'i' is used before limits check.</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/MultipurposeChain.h</file>
+    <line>545</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/MultipurposeChain.h" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (warning) Assignment of function parameter has no effect outside the function. Did you forget dereferencing it?</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/MultipurposeChain.h</file>
+    <line>801</line>
+    <module>Compiler</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/MultipurposeChain.h" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">cppcheck inspections</problem_class>
+    <description>cppcheck: (warning) Assignment of function parameter has no effect outside the function. Did you forget dereferencing it?</description>
+  </problem>
+</problems>
+
