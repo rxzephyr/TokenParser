@@ -23,7 +23,7 @@ Lexial structure is defined as follows:
 
 +	__operators:__    The followings are operators:
     
-    +  -  /  *  =  ==  <  <=  >  >=  !=  
+    \+  \-  /  *  =  ==  <  <=  >  >=  !=  
 
 +	__delimiters:__   The followings are delimeters:
     
@@ -32,7 +32,11 @@ Lexial structure is defined as follows:
 +	__numbers:__     The numbers are defined as follows:
 
     digit      <- 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+    
     intnumber  <- digit+                             (the maximum integer number is 231)
+    
     exponent   <- (E|e) ( + | - | EPSILON ) digit+   (the maximum exponent value is 128)
+    
     fraction   <- . digit+    
+    
     realnumber <- digit+ exponent | digit+ fraction  ( exponent | EPSILON )
